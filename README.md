@@ -1,11 +1,11 @@
-Netflix TV Shows & Movies Power BI Dashboard
+# Netflix TV Shows & Movies Power BI Dashboard
 Welcome to the Netflix TV Shows & Movies Power BI Dashboard repository! This repository contains a Power BI dashboard designed to visualize data related to Netflix TV shows and movies.
 
-#Overview
+# Overview
 
 The Power BI dashboard in this repository provides insightful visualizations and analysis of Netflix's vast library of TV shows and movies. It leverages data sourced from publicly available datasets to offer users a comprehensive view of various aspects of Netflix content.
 
-#Features
+# Features
 
 Interactive Visualizations: Explore Netflix content through interactive charts, graphs, and tables.
 
@@ -18,7 +18,7 @@ Data Insights: Gain valuable insights into the distribution of content by genre,
 User-Friendly Interface: Intuitive design and user-friendly interface make it easy for users to navigate and explore the data.
 
 
-#Getting Started
+# Getting Started
 
 To use the Netflix TV Shows & Movies Power BI Dashboard, follow these steps:
 
@@ -30,12 +30,12 @@ Navigate to the location where you saved the downloaded repository and open the 
 
 Explore the dashboard by interacting with the visualizations and filters.
 
-#Data Sources
+# Data Sources
 
 The data used in this dashboard is sourced from:
 
 Public Datasets: Publicly available datasets related to Netflix content is used for analysis.
 
-#Contributing
+# Contributing
 
 Contributions to enhance the functionality and visual appeal of this Power BI dashboard are welcome! If you have suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
