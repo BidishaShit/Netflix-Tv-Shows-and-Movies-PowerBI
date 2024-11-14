@@ -1,4 +1,6 @@
-# Netflix TV Shows & Movies Power BI Dashboard
+
+![Screenshot 2024-11-14 230600](https://github.com/user-attachments/assets/63865a75-bf56-4db3-8dba-b0e2343c29e8)
+# NetflixTV Shows & Movies Power BI Dashboard
 Welcome to the Netflix TV Shows & Movies Power BI Dashboard repository! This repository contains a Power BI dashboard designed to visualize data related to Netflix TV shows and movies.
 
 # Overview
